@@ -1,0 +1,10 @@
+<openerp>
+    <data noupdate="1">
+        <record id="odoo_mocks_test_user" model="res.users">
+            <field name="name">Odoo Mocks Test User Demo</field>
+            <field name="login">odoo_mocks</field>
+            <field name="password">odoo_mocks</field>
+            <field name="tz">Europe/London</field>
+        </record>
+    </data>
+</openerp>
