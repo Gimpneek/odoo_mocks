@@ -1,5 +1,5 @@
 # odoo_mocks
-Example Odoo module to show off how to mock Odoo registries (http://colinwren.is/mocking-out-registries-in-odoo-tests.html)
+Example Odoo module to show off how to mock Odoo registries (http://colinwren.is/patching-out-registries-in-odoo-tests.html)
 
 ## Test Times
 Run One:
