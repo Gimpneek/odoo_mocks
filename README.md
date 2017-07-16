@@ -1,6 +1,8 @@
 # Using Patching For Faster Odoo Tests
 Example Odoo module to show off how to patch Odoo registries (http://colinwren.is/patching-out-registries-in-odoo-tests.html)
 
+Based on Odoo version 8
+
 ## Test Times
 Run One:
  - test_demo:  Ran 2 tests in 0.025s
