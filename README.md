@@ -1,5 +1,5 @@
 # Using Patching For Faster Odoo Tests
-Example Odoo module to show off how to patch Odoo registries (http://colinwren.is/patching-out-registries-in-odoo-tests.html)
+Example Odoo module to show off how to patch Odoo registries (https://medium.com/@colinwren/patching-out-registries-in-odoo-tests-v8-46405bc5a22c)
 
 Based on Odoo version 8
 
